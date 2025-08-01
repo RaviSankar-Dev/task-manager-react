@@ -1,12 +1,63 @@
-# React + Vite
+# Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Task Manager** is a web-based application designed to help users organize, track, and manage their daily tasks efficiently.
+With an intuitive interface, real-time updates, and helpful features, it streamlines to-do list management for individuals and teams.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add New Tasks:** Easily add tasks with title and description.
+- **Mark as Completed:** Update task status as completed/incomplete.
+- **Delete Tasks:** Remove tasks when no longer needed.
+- **Edit Task Details:** Modify task title or description.
+- **Task Filtering:** View all, active, or completed tasks.
+- **Responsive Design:** Works seamlessly on desktop and mobile devices.
+- **Persistent Storage:** Data is saved even after page reloads.
 
-## Expanding the ESLint configuration
+## Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Main Dashboard
+
+![Task Manager Dashboard](screenshots/task-manager.jpg)
+
+### Task Actions Example
+
+![Task Actions Example](screenshots/taskmanager-2.jpg)
+
+## Installation
+
+1. **Clone the repository**
+git clone https://github.com/yourusername/task-manager.git
+
+text
+2. **Go to the project directory**
+cd task-manager
+
+text
+3. **Install dependencies**
+npm install
+
+text
+*(or use the appropriate command for your tech stack)*
+4. **Start the application**
+npm start
+
+text
+*(or replace with your specific start command)*
+
+## Usage
+
+- Add new tasks to the list.
+- Edit or delete tasks as needed.
+- Mark tasks as completed to track progress.
+- Use task filtering to organize your to-do items.
+
+## Technologies Used
+
+- **Frontend:** [React, HTML, CSS, Bootstrap] <!-- Replace with your actual frontend stack -->
+- **Backend:** [Node.js, Express, etc. – if applicable]
+- **Database:** [MongoDB, SQLite, or local storage, if applicable]
+- **Other:** [Any major libraries or frameworks used]
+
+## License
+
+Distributed under the [MIT License](LICENSE).
