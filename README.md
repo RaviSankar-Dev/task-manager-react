@@ -17,11 +17,11 @@ With an intuitive interface, real-time updates, and helpful features, it streaml
 
 ### Main Dashboard
 
-![Task Manager Dashboard](screenshots/task-manager.jpg)
+![1](https://github.com/RaviSankar-Dev/task-manager-react/blob/0c206a997524bb863c911b6667c096ac15e121d8/task%20manager.png)
 
 ### Task Actions Example
 
-![Task Actions Example](screenshots/taskmanager-2.jpg)
+![2](https://github.com/RaviSankar-Dev/task-manager-react/blob/0c206a997524bb863c911b6667c096ac15e121d8/taskmanager%202.png)
 
 ## Installation
 
